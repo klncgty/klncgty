@@ -2,7 +2,7 @@
 
   <!-- Dynamic Typing Header -->
   <a href="https://github.com/klncgty">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1200&color=60A5FA&center=true&vCenter=true&random=false&width=700&height=55&lines=Hi%2C+I'm+%C3%87a%C4%9Fatay+K%C4%B1l%C4%B1n%C3%A7+%F0%9F%91%8B;AI+%26+Autonomous+Systems+Architect;Full-Stack+%26+Audio+Tech+Engineer;Obsessed+with+High+Performance+%26+Clean+Code" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1200&color=60A5FA&center=true&vCenter=true&random=false&width=700&height=55&lines=Hi%2C+I'm+%C3%87a%C4%9Fatay+K%C4%B1l%C4%B1n%C3%A7+%F0%9F%91%8B;AI+%26+Autonomous+Systems+Architect;Full-Stack+%26+Generative+AI+Engineer;Obsessed+with+High+Performance+%26+Clean+Code" alt="Typing SVG" />
   </a>
 
   <p align="center">
@@ -75,7 +75,7 @@
 | **AI & Autonomous Agents** | `MCP (Model Context Protocol)` • `Claude API` • `OpenAI API` • `ONNX Runtime Web` • `Demucs` • `Prompt Architecture` |
 | **Backend & Systems** | `Python 3.13` • `FastAPI` • `Node.js` • `Cloudflare Workers` • `AsyncIO` • `SSRF-Safe Networking` • `Docker` |
 | **Data & Storage** | `PostgreSQL 17 (RLS & DAG)` • `ClickHouse (Time-Series)` • `Redis (Rate Limiting)` • `MinIO / S3` • `SQLite` |
-| **Frontend & Audio Tech** | `React 19` • `TypeScript` • `Tailwind CSS` • `Vite` • `Web Audio API` • `FFmpeg (WASM)` • `Framer Motion` |
+| **Frontend & Creative Tech** | `React 19` • `TypeScript` • `Tailwind CSS` • `Vite` • `Web Audio API` • `FFmpeg (WASM)` • `Framer Motion` |
 
 </div>
 
