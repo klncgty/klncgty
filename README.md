@@ -53,12 +53,12 @@
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>🌿 <a href="https://www.oleart.co">Oleart.co</a></h3>
-      <p>High-performance artisanal olive oil and handcrafted kitchenware e-commerce. Hand-tuned static engine, sub-second TTFB, rich Schema.org Product/LocalBusiness microdata, and dynamic client cart.</p>
+      <h3>📡 <a href="https://signalroom.site">Signalroom.site</a></h3>
+      <p>Automated B2B lead discovery and visual email outreach engine with strict human-in-the-loop approval. Discovers verified professional signals from public sources, scores ICP fit, and crafts branded personalized campaigns.</p>
       <p>
-        <img src="https://img.shields.io/badge/Performance-100%2F100-22C55E?style=flat-square" />
-        <img src="https://img.shields.io/badge/JavaScript-ESNext-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-        <img src="https://img.shields.io/badge/SEO-Schema.org-EA4335?style=flat-square&logo=google&logoColor=white" />
+        <img src="https://img.shields.io/badge/Python_3.12-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+        <img src="https://img.shields.io/badge/PostgreSQL-Redis-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+        <img src="https://img.shields.io/badge/Human_in_the_Loop-Outreach-EC4899?style=flat-square" />
       </p>
     </td>
   </tr>
