@@ -84,12 +84,12 @@
 ### 📊 GitHub Activity & Metrics
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=klncgty&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=60A5FA&icon_color=F59E0B&text_color=94A3B8" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=klncgty&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=60A5FA&text_color=94A3B8" height="165" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=klncgty&theme=tokyonight" height="180" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=klncgty&theme=tokyonight" height="180" alt="Top Languages" />
 </div>
 
 <div align="center" style="margin-top: 10px;">
-  <img src="https://streak-stats.demolab.com/?user=klncgty&theme=tokyonight&hide_border=true&background=0D1117&ring=60A5FA&fire=F59E0B&currStreakLabel=60A5FA" height="165" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=klncgty&theme=tokyonight&hide_border=true&background=1a1b27&ring=70a5fd&fire=bf91f3&currStreakLabel=70a5fd" height="180" alt="GitHub Streak" />
 </div>
 
 ---
