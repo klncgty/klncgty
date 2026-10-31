@@ -2,7 +2,7 @@
 
   <!-- Dynamic Typing Header -->
   <a href="https://github.com/klncgty">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1200&color=60A5FA&center=true&vCenter=true&random=false&width=650&height=70&lines=Hi%2C+I'm+%C3%87a%C4%9Fatay+K%C4%B1l%C4%B1n%C3%A7+%F0%9F%91%8B;AI+Systems+%26+Autonomous+Agents+Architect;Full-Stack+Engineer+%26+Audio+Tech+Builder;Obsessed+with+High+Performance+%26+Clean+Code" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1200&color=60A5FA&center=true&vCenter=true&random=false&width=700&height=55&lines=Hi%2C+I'm+%C3%87a%C4%9Fatay+K%C4%B1l%C4%B1n%C3%A7+%F0%9F%91%8B;AI+%26+Autonomous+Systems+Architect;Full-Stack+%26+Audio+Tech+Engineer;Obsessed+with+High+Performance+%26+Clean+Code" alt="Typing SVG" />
   </a>
 
   <p align="center">
